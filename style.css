@@ -1,0 +1,15 @@
+#russia{
+    border: solid 3px darkred;
+    height: 40vh;
+    width: 80vw;
+    background-color: black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.ruski{
+    height: 40vh;
+    width: 26vw;
+}
