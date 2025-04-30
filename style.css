@@ -1,5 +1,9 @@
+body{
+    background-image: url("https://lp-cms-production.imgix.net/2019-06/GettyImages-498208877_high.jpg");
+    background-size: 100vw;
+}
 #russia{
-    border: solid 3px darkred;
+    border: solid 3px black;
     height: 40vh;
     width: 80vw;
     background-color: black;
@@ -7,9 +11,23 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 }
 .russiaimg{
     height: 40vh;
     width: 26vw;
+}
+h1{
+    font-size: 8vh;
+    text-align: center;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 7vh;
+    text-align: center;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
